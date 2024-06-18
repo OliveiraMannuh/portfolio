@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(182, 235, 217);
+}
+
+header{
+    /*background-color: aquamarine;*/
+    text-align: center;
+}
+
+header>h1{
+}
+
+section{
+    background-color: blanchedalmond;
+}
+
+nav{
+    background-color: azure;
+    text-align: center;
+    
+}
+
+nav>a{
+    text-decoration: none;
+    padding: 50px;
+}
+
+a:visited{
+    color: black;
+}
