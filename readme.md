@@ -9,7 +9,7 @@ Portfólio pessoal desenvolvido com HTML, CSS e JavaScript puro, apresentando mi
 
 ## 📸 Preview
 
-![Preview do Portfólio](./website%203.png)
+![Preview do Portfólio](./portfolio.png)
 
 ---
 
